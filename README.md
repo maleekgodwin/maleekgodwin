@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maleekgodwin" alt="maleekgodwin" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, Python, Marching learning**
+- 🌱 I’m currently learning **React Native, Python, Machine learning**
 
 - 👨‍💻 All of my projects are available at [work in progress](work in progress)
 
